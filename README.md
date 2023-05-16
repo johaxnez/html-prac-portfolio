@@ -1,2 +1,2 @@
 # html-prac-portfolio
-practice portfolio website
+practice portfolio website, not own work. 
